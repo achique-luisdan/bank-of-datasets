@@ -1,0 +1,16 @@
+{
+	"sections": [
+		{
+			"id": 2,
+			"name": "Cuidado de bebes"
+		},
+		{
+			"id": 3,
+			"name": "Cuidado personal"
+		},
+		{
+			"id": 5,
+			"name": "Hogar"
+		}
+	]
+}

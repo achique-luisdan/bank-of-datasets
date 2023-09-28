@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "CELEBRITIES_MLS_DB",
+            "group": "TIPS",
+            "database": "celebrities_mls_db",
+            "username": "developer",
+            "password": "JBhGn$qe7eD!ir@q"
+        }
+    ]
+}
